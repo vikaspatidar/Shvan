@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Shvan</string>
+
+    <string name="no_data_available">No data available.</string>
+
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_male">Male</string>
+    <string name="content_desc_female">Female</string>
+    <string name="content_desc_adopt">Adopt</string>
+    <string name="content_desc_share">Share</string>
+
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string name="title_share">Share</string>
+    <string name="title_gender">Gender</string>
+    <string name="title_age">Age</string>
+    <string name="title_breed">Breed</string>
+
+    <string name="button_adopt_me">Adopt Me</string>
+</resources>
